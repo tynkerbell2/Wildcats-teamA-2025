@@ -1,2 +1,2 @@
-# Wildcats-teamC-2025
-Wildcats team C code repository 
+# Wildcats-teamA-2025
+Wildcats team A code repository 
